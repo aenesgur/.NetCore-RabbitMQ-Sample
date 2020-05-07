@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "qydWIm5Vq55wwh8xXhyYvtR1FpitCUSYnWwLQ5uhz4eGvwKtjcER7xkedO1LjC1dx2tP4pUeb7MKsRNcWzFjhg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\enes.gur\\Desktop\\RabbitMq-Sample\\DotnetCore-RabbitMQ-Sample\\DotNetCore-RabbitMQ.Consumer\\DotNetCore-RabbitMQ.Consumer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\enes.gur\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\enes.gur\\.nuget\\packages\\rabbitmq.client\\5.1.2\\rabbitmq.client.5.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

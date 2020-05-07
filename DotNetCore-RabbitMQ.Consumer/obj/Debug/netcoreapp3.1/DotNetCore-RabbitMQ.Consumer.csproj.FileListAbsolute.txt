@@ -1,0 +1,15 @@
+C:\Users\enes.gur\Desktop\RabbitMq-Sample\DotnetCore-RabbitMQ-Sample\DotNetCore-RabbitMQ.Consumer\bin\Debug\netcoreapp3.1\DotNetCore-RabbitMQ.Consumer.exe
+C:\Users\enes.gur\Desktop\RabbitMq-Sample\DotnetCore-RabbitMQ-Sample\DotNetCore-RabbitMQ.Consumer\obj\Debug\netcoreapp3.1\DotNetCore-RabbitMQ.Consumer.csprojAssemblyReference.cache
+C:\Users\enes.gur\Desktop\RabbitMq-Sample\DotnetCore-RabbitMQ-Sample\DotNetCore-RabbitMQ.Consumer\obj\Debug\netcoreapp3.1\DotNetCore-RabbitMQ.Consumer.AssemblyInfoInputs.cache
+C:\Users\enes.gur\Desktop\RabbitMq-Sample\DotnetCore-RabbitMQ-Sample\DotNetCore-RabbitMQ.Consumer\obj\Debug\netcoreapp3.1\DotNetCore-RabbitMQ.Consumer.AssemblyInfo.cs
+C:\Users\enes.gur\Desktop\RabbitMq-Sample\DotnetCore-RabbitMQ-Sample\DotNetCore-RabbitMQ.Consumer\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\enes.gur\Desktop\RabbitMq-Sample\DotnetCore-RabbitMQ-Sample\DotNetCore-RabbitMQ.Consumer\obj\Debug\netcoreapp3.1\DotNetCore-RabbitMQ.Consumer.csproj.CopyComplete
+C:\Users\enes.gur\Desktop\RabbitMq-Sample\DotnetCore-RabbitMQ-Sample\DotNetCore-RabbitMQ.Consumer\bin\Debug\netcoreapp3.1\DotNetCore-RabbitMQ.Consumer.deps.json
+C:\Users\enes.gur\Desktop\RabbitMq-Sample\DotnetCore-RabbitMQ-Sample\DotNetCore-RabbitMQ.Consumer\bin\Debug\netcoreapp3.1\DotNetCore-RabbitMQ.Consumer.runtimeconfig.json
+C:\Users\enes.gur\Desktop\RabbitMq-Sample\DotnetCore-RabbitMQ-Sample\DotNetCore-RabbitMQ.Consumer\bin\Debug\netcoreapp3.1\DotNetCore-RabbitMQ.Consumer.runtimeconfig.dev.json
+C:\Users\enes.gur\Desktop\RabbitMq-Sample\DotnetCore-RabbitMQ-Sample\DotNetCore-RabbitMQ.Consumer\bin\Debug\netcoreapp3.1\DotNetCore-RabbitMQ.Consumer.dll
+C:\Users\enes.gur\Desktop\RabbitMq-Sample\DotnetCore-RabbitMQ-Sample\DotNetCore-RabbitMQ.Consumer\bin\Debug\netcoreapp3.1\DotNetCore-RabbitMQ.Consumer.pdb
+C:\Users\enes.gur\Desktop\RabbitMq-Sample\DotnetCore-RabbitMQ-Sample\DotNetCore-RabbitMQ.Consumer\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\enes.gur\Desktop\RabbitMq-Sample\DotnetCore-RabbitMQ-Sample\DotNetCore-RabbitMQ.Consumer\obj\Debug\netcoreapp3.1\DotNetCore-RabbitMQ.Consumer.dll
+C:\Users\enes.gur\Desktop\RabbitMq-Sample\DotnetCore-RabbitMQ-Sample\DotNetCore-RabbitMQ.Consumer\obj\Debug\netcoreapp3.1\DotNetCore-RabbitMQ.Consumer.pdb
+C:\Users\enes.gur\Desktop\RabbitMq-Sample\DotnetCore-RabbitMQ-Sample\DotNetCore-RabbitMQ.Consumer\obj\Debug\netcoreapp3.1\DotNetCore-RabbitMQ.Consumer.genruntimeconfig.cache
